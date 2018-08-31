@@ -1,5 +1,5 @@
 ## Openkicker
-Track your Foosball games in this handy app
+Track your Foosball games in this multi-platform app for iOS and Android
 
 ## Quickstart for developers
 * Clone
